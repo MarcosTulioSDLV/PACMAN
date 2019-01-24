@@ -5,8 +5,6 @@ I developed a Pacman clone made in Unity.
 
 THE RESOURCES USED HAVE BEEN DOWNLOAD FROM THE NEXTS LINKS: 
 
-Sprites: 
-https://github.com/vilbeyli/Pacman
-http://gpjecc.blogspot.com/2018/08/tutorial-do-unity-2d-pac-man.html
+Sprites: https://github.com/vilbeyli/Pacman
 
 Sounds: http://www.classicgaming.cc/classics/pac-man/sounds
