@@ -3,7 +3,7 @@
 
 I developed a Pacman clone made in Unity. 
 
-**[Play on Web!](https://gamejolt.com/games/pacmanclone/392889)
+[Play on Web!](https://gamejolt.com/games/pacmanclone/392889)
 
 THE RESOURCES USED HAVE BEEN DOWNLOAD FROM THE NEXTS LINKS: 
 
